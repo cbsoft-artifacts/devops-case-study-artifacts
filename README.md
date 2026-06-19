@@ -10,7 +10,7 @@ a rastreabilidade e a reprodutibilidade da pesquisa.
 
 ## Planilha de Instanciação da Taxonomia DevOps
 
-O arquivo `ClassificacaoDevOps.xlsx` contém o artefato utilizado
+O arquivo `ClassificacaoDevOps`(.xlsx e xlt) contém o artefato utilizado
 para apoiar a instanciação da taxonomia DevOps harmonizada proposta
 por Díaz et al.
 
