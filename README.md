@@ -46,8 +46,8 @@ legado e modernização são disponibilizados em formato de alta
 resolução para permitir a inspeção detalhada dos elementos da
 taxonomia.
 
-- `Figura1_Legado`
-- `Figura2_Modernizacao`
+- `TaxonomiaLegado`(.pdf e .png)
+- `TaxonomiaModernizacao`(.pdf e .png)
 
 Esses diagramas foram gerados a partir das classificações e
 justificativas registradas na planilha de instanciação e representam
